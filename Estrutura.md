@@ -14,7 +14,7 @@ Este documento é uma tentativa de itemização de assuntos a serem tratados em 
 
 Sugiro que o colaborador identifique seu nome em parênteses ao lado do título do item que pretende detalhar depois, como mostrado no item ** Estimadores **. Mesmo que outro colaborador já tenha iniciado uma itemização de tema similar ao que você pretendia escrever, eu sugiro escrever assim mesmo, a não ser que seja exatamente a mesma coisa. Nesse caso, é melhor esperar pelo dia combinado para iniciarmos uma rodada de discussão.  
 
-O prazo definido na última reunião foi 13/05/2022.
+O prazo definido na úlitma reunião do 26/04 para finalizarmos a primeira versão da itemização foi o dia 13/05/2022.
 
 
 # Colaboradores {-}
