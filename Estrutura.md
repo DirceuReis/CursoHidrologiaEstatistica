@@ -4,8 +4,11 @@ author: "Dirceu Reis"
 date: "26/04/2022"
 output:
   html_document:
+    theme: united
+    highlight: tango
     number_sections: yes
-  pdf_document: default
+    toc: true
+    toc_depth: 2
 ---
 
 # Apresentação {-}
@@ -32,10 +35,16 @@ Por enquanto, esta iniciativa está sendo desenvolvida pelos seguintes professor
 Tomei a liberdade de sugerir o Wilson por motivos óbvios. Fiz uma itemização inicial só para sair da inércia.
 
 ### Acesso automático ao webservice da ANA
+
 ### Outras bases
+
 ### Manipulação para facilitar análises
+
 ### Exemplo prático com dados de precipitação
+
+
 ## Estimadores em hidrologia estatística (Dirceu)
+
 ### Motivação 
 
 ### Relação entre os conceitos de população e amostra
