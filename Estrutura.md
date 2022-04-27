@@ -1,6 +1,6 @@
 ---
 title: "Estrutura do Curso"
-author: "Dirceu Reis"
+author: "Dirceu Reis, Francisco Eustáquio, Pedro Chaffe, e Wilson Fernandes"
 date: "26/04/2022"
 output:
   html_document:
