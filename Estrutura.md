@@ -61,6 +61,16 @@ Tomei a liberdade de sugerir o Wilson por motivos óbvios. Fiz uma itemização 
 
 ## Análise de frequência
 
+# Exemplos de cabo a rabo
+
+Considerando que uma característica importante desse(s) curso(s) é o **como fazer**, cada curso deverá ter pelo menos uma tarefa com um produto final bem definido, que estou chamando aqui de **exemplo de cabo a rabo**. Como nós estamos, neste momento, construindo uma itemização mais geral, não especificamente ligada a u curso, sugiro que a gente identifique alguns desses exemplos, imaginando sempre que cada exemplo colocado aqui tera que ser executado num único curso.
+
+## Exemplo para ajudar a compreender desempenho de diferentes estimadores
+
+### Análise Monte Carlo para compreender diferença de desempenho entre métodos
+
+### Uso de mais de um estimador para a mesma característica da série num conjunto de estações (e.g., correlação espacial, coeficente de assimteria, autocorrelação temporal)  
+
 # Banco de dados que podem ser utilizados
 
 ## CaBRA: Catchments attributes for Brazil (Almargo et al., 2021)
