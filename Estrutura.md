@@ -71,6 +71,14 @@ Considerando que uma característica importante desse(s) curso(s) é o **como fa
 
 ### Uso de mais de um estimador para a mesma característica da série num conjunto de estações (e.g., correlação espacial, coeficente de assimteria, autocorrelação temporal)  
 
+## Análise de frequência de cheias local
+
+### Obter e manipular informações
+### Escolha da distribuição de probabilidade
+### Estimativa dos parâmetros da distribuição
+### Construção da curva de frequência
+### Descrição das incertezas nos parâmetros e quantis de cheia
+
 # Banco de dados que podem ser utilizados
 
 ## CaBRA: Catchments attributes for Brazil (Almargo et al., 2021)
