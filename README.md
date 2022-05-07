@@ -39,3 +39,5 @@ Chagas, V. B. P., Chaffe, P. L. B., Addor, N., Fan, F. M., Fleischmann, A. S., P
 ## CaBRA: Catchments attributes for Brazil (Almargo et al., 2021)
 
 O banco de dados denominado [CaBRA](https://hess.copernicus.org/articles/25/3105/2021/) é também uma opção.
+
+Almagro, A., Oliveira, P. T. S., Meira Neto, A. A., Roy, T., and Troch, P.: CABra: a novel large-sample dataset for Brazilian catchments, Hydrol. Earth Syst. Sci., 25, 3105–3135, https://doi.org/10.5194/hess-25-3105-2021, 2021.
