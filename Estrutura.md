@@ -29,16 +29,14 @@ Por enquanto, esta iniciativa está sendo desenvolvida pelos seguintes professor
 - Pedro Chaffe (UFSC).
 - Wilson Fernandes (UFMG)
 
-# Proposta de itemização
+# Proposta de temas e respectiva itemização
 
 ## Obtenção e manipulação de dados hidrológicos (Wilson?)
 Tomei a liberdade de sugerir o Wilson por motivos óbvios. Fiz uma itemização inicial só para sair da inércia.
 
 ### Acesso automático ao webservice da ANA
 
-### Outras bases
-
-### Manipulação para facilitar análises
+### Manipulação dos dados para facilitar análises no R
 
 ### Exemplo prático com dados de precipitação
 
@@ -47,7 +45,7 @@ Tomei a liberdade de sugerir o Wilson por motivos óbvios. Fiz uma itemização 
 
 ### Motivação 
 
-### Relação entre os conceitos de população e amostra
+### Relação entre os conceitos de população, amostra e estimador
 
 ### Desempenho de um estimador (e.g., viés, variância, erro médio quadrático)
 
@@ -55,11 +53,26 @@ Tomei a liberdade de sugerir o Wilson por motivos óbvios. Fiz uma itemização 
 
 ### Fatores que afetam desempenho de um estimador
 
-### Incertezas em estimadores
+### Estimativa de incertezas em estimadores
 
 ### Exemplos de estimadores em hidrologia
 
 ## Análise de frequência
+
+### Motivação
+
+Além de uma discussão geral sobre o uso de de análise de frequência em diversos estudos na área de recursos hídricos, devemos apresentar, logo no início, o problema que será resolvido ao longo do curso. Isso me parece impotante para manter a motivação.  
+
+Em cada etapa de solução do problema será necessário discutir os temas abaixo. 
+
+### Conceito de tempo de recorrência
+
+### Ajuste de uma distribuição de probabilidades aos dados
+
+### Estimador de quantis da variável de interesse
+
+### Descrição das incertezas dos estimadores
+
 
 # Exemplos de cabo a rabo
 
@@ -71,7 +84,7 @@ Considerando que uma característica importante desse(s) curso(s) é o **como fa
 
 ### Uso de mais de um estimador para a mesma característica da série num conjunto de estações (e.g., correlação espacial, coeficente de assimteria, autocorrelação temporal)  
 
-## Análise de frequência de cheias local
+## Exemplo de análise de frequência de cheias local
 
 ### Obter e manipular informações
 ### Escolha da distribuição de probabilidade
@@ -81,9 +94,17 @@ Considerando que uma característica importante desse(s) curso(s) é o **como fa
 
 # Banco de dados que podem ser utilizados
 
+## CAMELS-BR: hydrometeorological time series and landscape attributes for 897 catchments in Brazil
+
+O banco de dados denominado [CAMELS-BR](https://essd.copernicus.org/articles/12/2075/2020/) me parece uma boa opção para algumas atividades de ensino. A primeira que me vem à cabeça é a questão de regionalização hidrológica, já que o banco contém diversas informações que podem servir de covariáveis na construção de um modelo regional.
+
+Chagas, V. B. P., Chaffe, P. L. B., Addor, N., Fan, F. M., Fleischmann, A. S., Paiva, R. C. D., and Siqueira, V. A.: CAMELS-BR: hydrometeorological time series and landscape attributes for 897 catchments in Brazil, Earth Syst. Sci. Data, 12, 2075–2096, https://doi.org/10.5194/essd-12-2075-2020, 2020.
+
 ## CaBRA: Catchments attributes for Brazil (Almargo et al., 2021)
 
-O banco de dados denominado [CaBRA](https://hess.copernicus.org/articles/25/3105/2021/) me parece uma boa opção para algumas atividades de ensino. A primeira que me vem à cabeça é a questão de regionalização idrológica, já que o banco contém diversas informações que podem servir de covariáveis na construção de um modelo regional.
+O banco de dados denominado [CaBRA](https://hess.copernicus.org/articles/25/3105/2021/) pode ser também avaliado para uso nos cursos.
+
+Almagro, A., Oliveira, P. T. S., Meira Neto, A. A., Roy, T., and Troch, P.: CABra: a novel large-sample dataset for Brazilian catchments, Hydrol. Earth Syst. Sci., 25, 3105–3135, https://doi.org/10.5194/hess-25-3105-2021, 2021.
 
 # Cursos possíveis (demanda institucional)
 
